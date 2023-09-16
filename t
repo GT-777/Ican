@@ -1,11 +1,8 @@
 
-
 windows newww2
 
 
-
+linux newwww
 
 linux newww 2
 
-=======
-wind from Gev2
